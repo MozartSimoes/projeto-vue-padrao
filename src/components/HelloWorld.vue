@@ -1,5 +1,5 @@
 <template>
-  <h1>Componente HelloWorld</h1>  
+  <h1>Componente Ola mundo</h1>  
 </template>
 
 <script>
